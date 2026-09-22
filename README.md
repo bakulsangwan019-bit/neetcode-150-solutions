@@ -61,8 +61,9 @@ Solve it. Explain it. Compare it. Improve it.
 ## Current Progress
 
 ✅ Arrays & Hashing  
-🔄 Two Pointers  
-🔄 Sliding Window  
+✅ Two Pointers  
+✅ Sliding Window  
+🔄 Stacks
 ⬜ More topics as I progress through NeetCode 150
 
 ## Language
