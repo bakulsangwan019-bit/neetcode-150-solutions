@@ -30,6 +30,8 @@ for i in tokens:
 
         stack.append(current)
 
+current = b // a and b/a(answer)
+
 print("Classic approach:", stack)
 
 
