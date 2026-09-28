@@ -1,7 +1,7 @@
 # Permutation in String
 
 s1 = "abc"
-s2 = "lecabee"
+s2 = "lecaabee"
 
 
 # ---------------- Brute Force Approach ----------------
